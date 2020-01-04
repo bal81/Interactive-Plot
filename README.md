@@ -1,5 +1,8 @@
 # Interactive-Plot
 
+For an interactive visualization, please use the link showed below:
+https://mybinder.org/v2/gh/bal81/Interactive-Plot/9bdabf893a0aa75eee2cd8459d42243db5094903
+
 Monte Carlo simulations on the interactions between mono-energetic proton beams with water were performed. The Energy deposited along Z- axe (Bragg peak) was scored and the results were plotted for analysis.
 A program in python using OOP in a Jupyter Notebook environment was implemented for data analysis of the CSV files. Is worthing to mention that this can be used to load N number of CSV files by initializing the class N times.
 
